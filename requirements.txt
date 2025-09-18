@@ -1,11 +1,7 @@
-fastapi==0.111.1
-uvicorn==0.26.1
+fastapi==0.118.1
+uvicorn==0.23.1
 pydantic==1.10.12
 numpy==1.25.2
 pymongo==5.5.0
 pypdf==3.15.0
-langchain==0.1.0  # Replace with actual version if installed differently
-langchain-google-genai==0.1.0  # If installed via pip, otherwise use github source
-langgraph==0.1.0  # Replace with actual version
-langchain-community==0.1.0  # for DuckDuckGoSearchAPIWrapper
 python-dotenv==1.0.1
